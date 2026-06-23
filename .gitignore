@@ -1,0 +1,7 @@
+/bin/
+/internal/loader/dropdoctor_bpf*.go
+/internal/loader/dropdoctor_bpf*.o
+/bpf/vmlinux.h
+*.test
+*.log
+.DS_Store

@@ -1,0 +1,2 @@
+{"interface":"veth0","flow":"10.88.0.1:0 -> 10.88.0.2:0 ICMP","explanation":{"reason_name":"NETFILTER_DROP","domain":"firewall","summary":"netfilter/nftables/iptables 계층에서 DROP verdict가 발생했을 가능성이 큽니다."}}
+{"interface":"eth0","flow":"10.0.0.5 -> 10.0.0.1 ICMP","explanation":{"reason_name":"IP_RPFILTER","domain":"routing","summary":"라우팅 테이블, reverse path filter, 정책 라우팅 또는 IPsec/XFRM 정책 문제일 수 있습니다."}}
